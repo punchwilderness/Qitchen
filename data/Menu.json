@@ -1,0 +1,118 @@
+{
+  "menu": [
+    {
+      "Maki": [
+        {
+          "image": "/images/MenuItemImages/spicyTunaMaki.avif",
+          "name": "Spicy Tuna Maki",
+          "price": "$5",
+          "description": "A tantalizing blend of spicy tuna, cucumber, and avocado, harmoniously rolled in nori and seasoned rice."
+        },
+        {
+          "image": "/images/MenuItemImages/mangoMaki.png",
+          "eco": "/images/Logo/leaf.svg",
+          "name": "Mango Maki",
+          "price": "$5",
+          "description": "Tempura-fried shrimp, cucumber, and cream cheese embrace a center of fresh avocado, delivering a satisfying contrast of textures."
+        },
+        {
+          "image": "/images/MenuItemImages/salmonMaki.png",
+          "name": "Salmon Maki",
+          "price": "$5",
+          "description": "Shiitake mushrooms, avocado, and pickled daikon radish nestle within a roll of seasoned rice, coated with nutty sesame seeds."
+        },
+        {
+          "image": "/images/MenuItemImages/tunaMaki.png",
+          "name": "Tuna Maki",
+          "price": "$5",
+          "description": "A vibrant assortment of julienned carrots, bell peppers, and cucumber, tightly encased in a nori-wrapped rice roll."
+        }
+      ]
+    },
+
+    {
+      "UraMaki": [
+        {
+          "image": "/images/MenuItemImages/volcanoDelight.png",
+          "name": "Volcano Delight",
+          "price": "$12",
+          "description": "Creamy crab salad, avocado, and cucumber rolled inside, topped with spicy tuna and drizzled with fiery sriracha sauce."
+        },
+        {
+          "image": "/images/MenuItemImages/rainbowFusion.png",
+          "name": "Rainbow Fusion",
+          "price": "$12",
+          "description": "A colorful blend of fresh tuna, salmon, yellowtail, and avocado, enveloping a core of cucumber and crab stick."
+        },
+        {
+          "image": "/images/MenuItemImages/dragonElegance.png",
+          "name": "Dragon Elegance",
+          "price": "$12",
+          "description": "Grilled eel and avocado nestled within the roll, draped with slices of ripe avocado resembling dragon scales."
+        },
+        {
+          "image": "/images/MenuItemImages/sunsetSerenity.avif",
+          "name": "Sunset Serenity",
+          "price": "$12",
+          "description": "Tempura shrimp, cucumber, and spicy mayo embraced by a roll of soy paper, crowned with slices of creamy mango."
+        },
+        {
+          "image": "/images/MenuItemImages/mysticGarden.avif",
+          "name": "Mystic Garden",
+          "price": "$12",
+          "description": "Shiitake mushrooms, asparagus, and cucumber intermingle with crispy tempura bits, blanketed by a layer of sesame seeds."
+        },
+        {
+          "image": "/images/MenuItemImages/ocenBreeze.avif",
+          "name": "Ocean Breeze",
+          "price": "$12",
+          "description": "A medley of fresh shrimp, crab stick, and avocado, laced with a gentle touch of zesty yuzu-infused tobiko."
+        },
+        {
+          "image": "/images/MenuItemImages/tokyoBlossom.avif",
+          "name": "Tokyo Blossom",
+          "price": "$12",
+          "description": "Delicate pink soy paper envelopes a blend of tuna, crab stick, and cucumber, embellished with edible flower petals."
+        }
+      ]
+    },
+
+    {
+      "SpecialRolls": [
+        {
+          "image": "/images/MenuItemImages/sunriseBliss.avif",
+          "eco": "/images/Logo/leaf.svg",
+          "name": "Sunrise Bliss",
+          "price": "$16",
+          "description": "A delicate combination of fresh salmon, cream cheese, and asparagus, rolled in orange-hued tobiko for a burst of sunrise-inspired flavors."
+        },
+        {
+          "image": "/images/MenuItemImages/mangoTango.avif",
+          "name": "Mango Tango",
+          "price": "$16",
+          "description": "Tempura shrimp, cucumber, and avocado dance alongside sweet mango slices, drizzled with a tangy mango sauce."
+        },
+        {
+          "image": "/images/MenuItemImages/truffleIndulgence.avif",
+          "eco": "/images/Logo/leaf.svg",
+          "name": "Truffle Indulgence",
+          "price": "$16",
+          "description": "Decadent slices of black truffle grace a roll of succulent wagyu beef, cucumber, and microgreens, culminating in an exquisite umami symphony."
+        },
+        {
+          "image": "/images/MenuItemImages/pacificFirecracker.avif",
+          "eco": "/images/Logo/leaf.svg",
+          "name": "Pacific Firecracker",
+          "price": "$16",
+          "description": "Spicy crab salad, tempura shrimp, and jalapeño peppers combine in a fiery ensemble, accented with a chili-infused aioli."
+        },
+        {
+          "image": "/images/MenuItemImages/eternalEel.avif",
+          "name": "Eternal Eel",
+          "price": "$16",
+          "description": "An enchanting blend of eel tempura, foie gras, and cucumber, elegantly layered with truffle oil and gold leaf for a touch of opulence."
+        }
+      ]
+    }
+  ]
+}
